@@ -22,29 +22,29 @@ A Django API for student and teacher registration, student login, teacher login,
 ## Registration from Teacher
 
  Teacher Registration form
-![Alt Text](3.png)
+![Alt Text](screenshot/3.png)
 
 ## Error Handling with Django TO REACT JS
  Error handle with Django 
-![Alt Text](2.png)
+![Alt Text](screenshot/2.png)
 
 ## Error Handling For Teache Form
 
  Error handle with Django 
-![Alt Text](5.png)
+![Alt Text](screenshot/5.png)
 
 ## Login page 
  Login Student 
- ![Alt Text](4.png)
+ ![Alt Text](screenshot/4.png)
 
 
 ## Teacher Dashbord After login 
  After login Teacher Dashbord
- ![Alt Text](6.png)
+ ![Alt Text](screenshot/6.png)
 
 ## Student Dashbord After login 
  After login Student Dashbord
- ![Alt Text](7.png)
+ ![Alt Text](screenshot/7.png)
 
 ## Requirements
 
